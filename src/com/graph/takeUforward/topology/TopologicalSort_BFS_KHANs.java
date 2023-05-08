@@ -5,7 +5,6 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class TopologicalSort_BFS_KHANs {
-
 	public static void main(String[] args) {
 		int V = 6;
 		ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
